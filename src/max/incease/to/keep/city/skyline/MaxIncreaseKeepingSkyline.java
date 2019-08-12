@@ -1,4 +1,4 @@
-package MaxIncreaseToKeepCitySkyline;
+package max.incease.to.keep.city.skyline;
 
 import java.util.Arrays;
 
