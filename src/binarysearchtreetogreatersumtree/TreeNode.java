@@ -1,4 +1,4 @@
-package binary.search.tree.to.greater.sum.tree;
+package binarysearchtreetogreatersumtree;
 
 public class TreeNode {
     int val;

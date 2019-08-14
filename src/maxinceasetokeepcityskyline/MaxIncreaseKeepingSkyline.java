@@ -1,4 +1,4 @@
-package max.incease.to.keep.city.skyline;
+package maxinceasetokeepcityskyline;
 
 import java.util.Arrays;
 

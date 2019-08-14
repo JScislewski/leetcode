@@ -1,4 +1,4 @@
-package defanging.an.ip.adress;
+package defanginganipadress;
 
 public class DefangingAnIPAdress {
     public static void main(String[] args) {
