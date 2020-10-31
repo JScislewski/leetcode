@@ -1,6 +1,7 @@
 package _1038binarysearchtreetogreatersumtree;
 
 public class Solution {
+
   private int pre = 0;
 
   private TreeNode bstToGst(TreeNode root) {

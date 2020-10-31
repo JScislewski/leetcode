@@ -5,6 +5,7 @@ import java.util.Collections;
 import java.util.List;
 
 public class Permutations {
+
   private List<List<Integer>> permutationsList = new ArrayList<>();
 
   public List<List<Integer>> permute(int[] nums) {
